@@ -24,7 +24,7 @@ public class tournamentClass {
     }
 
     private String courtAssignment(){
-        // asign a court at random
+        // asign a court bassed on the order (simple for loop)
         return "No courts at the moment.";
     }
 
